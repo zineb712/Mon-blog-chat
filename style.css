@@ -563,6 +563,16 @@
     margin: 20px auto;
     width: auto;
   }
+
+  #accesoires .description h1 {
+  font-size: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+#accesoires .description p {
+  font-size: 0.5rem;
+  line-height: 1.3;
+}
 }
 
 
